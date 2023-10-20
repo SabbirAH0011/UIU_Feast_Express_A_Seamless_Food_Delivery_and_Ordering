@@ -1,0 +1,14 @@
+cafe_east@uiu.com
+cafe_east01
+
+cafe_west@uiu.com
+cafe_west01
+
+admin@uiu.com
+admin01@
+
+user@gmail.com
+user01
+
+rider01@gmail.com
+rider01@
